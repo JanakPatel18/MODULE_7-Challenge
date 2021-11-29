@@ -12,6 +12,9 @@ After the data was thoroughly, the data which was asked for was reported in clea
 
 To retrieve this data for the report there were a few functions which were used in SQL to put them in tables.  First the “INTO” was used to retrieve the retirement title, and mentorship eligibility tables.  The “DISTINCT ON” function was used to retrieve the data for the unique titles table.  Also, a Quick DataBaseDiagram was used to see the links between the different csv files.
 
+![QuickDBD-export](https://user-images.githubusercontent.com/91707734/143799763-94ca46a9-223a-4cd5-8735-95dab8d2aede.png)
+
+
 ## Summary
 
 In summary, we were asked to give the number of retiring employees, their unique titles, and count of retiring employees with the most recent title at retirement.  The other question which was asked was to report the number of employees which were eligible for mentorship.  Those questions were answered and reported to management with tables from using SQL.
